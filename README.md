@@ -1,24 +1,7 @@
-# README
+A rails 6.0 app with basic CRUD functionality and feature, unit, controller testing.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+TODO:
+Play around with ActionText
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Run server with `rails s`
+Run tests with `rake spec`
